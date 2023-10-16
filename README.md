@@ -1,4 +1,4 @@
-# Xtern-AI-WBA
+# Xtern-Artificial-Intelligence-Work-Based-Assessment
 
 ## Situation
 
